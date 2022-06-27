@@ -1,0 +1,16 @@
+body{
+text-align:center;
+}
+#apps{
+background-color:aqua;
+}
+#mycarousel{
+background-color:blueviolet;
+}
+#mycarousel img{
+height:300px;
+margin-top:35px;
+}
+#chatbot{
+background-color:green;
+}
